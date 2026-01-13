@@ -21,6 +21,7 @@
 
             for (int i = 0; i < 10; i++)
             {
+                // this is just to change the file
                 // print the resulting discount
                 Console.WriteLine($"Customer's discount is: {customer.DiscountAmount}");
 
